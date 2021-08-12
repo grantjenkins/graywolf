@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/graywolf/static/css/main.693e2652.chunk.css",
-    "main.js": "/graywolf/static/js/main.dc3a7f60.chunk.js",
-    "main.js.map": "/graywolf/static/js/main.dc3a7f60.chunk.js.map",
+    "main.js": "/graywolf/static/js/main.d35820ea.chunk.js",
+    "main.js.map": "/graywolf/static/js/main.d35820ea.chunk.js.map",
     "runtime-main.js": "/graywolf/static/js/runtime-main.a2ed426f.js",
     "runtime-main.js.map": "/graywolf/static/js/runtime-main.a2ed426f.js.map",
     "static/js/2.d3de239f.chunk.js": "/graywolf/static/js/2.d3de239f.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a2ed426f.js",
     "static/js/2.d3de239f.chunk.js",
     "static/css/main.693e2652.chunk.css",
-    "static/js/main.dc3a7f60.chunk.js"
+    "static/js/main.d35820ea.chunk.js"
   ]
 }
