@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/graywolf/static/css/main.68245ab3.chunk.css",
-    "main.js": "/graywolf/static/js/main.e8e6e4cc.chunk.js",
-    "main.js.map": "/graywolf/static/js/main.e8e6e4cc.chunk.js.map",
+    "main.js": "/graywolf/static/js/main.6677f129.chunk.js",
+    "main.js.map": "/graywolf/static/js/main.6677f129.chunk.js.map",
     "runtime-main.js": "/graywolf/static/js/runtime-main.a2ed426f.js",
     "runtime-main.js.map": "/graywolf/static/js/runtime-main.a2ed426f.js.map",
     "static/js/2.d3de239f.chunk.js": "/graywolf/static/js/2.d3de239f.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/graywolf/index.html",
     "static/css/main.68245ab3.chunk.css.map": "/graywolf/static/css/main.68245ab3.chunk.css.map",
     "static/js/2.d3de239f.chunk.js.LICENSE.txt": "/graywolf/static/js/2.d3de239f.chunk.js.LICENSE.txt",
-    "static/media/gj.aaded1f8.png": "/graywolf/static/media/gj.aaded1f8.png",
+    "static/media/gjshade.55dae57f.png": "/graywolf/static/media/gjshade.55dae57f.png",
     "static/media/logo.6ce24c58.svg": "/graywolf/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2ed426f.js",
     "static/js/2.d3de239f.chunk.js",
     "static/css/main.68245ab3.chunk.css",
-    "static/js/main.e8e6e4cc.chunk.js"
+    "static/js/main.6677f129.chunk.js"
   ]
 }
