@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/graywolf/static/css/main.5d958b6e.chunk.css",
-    "main.js": "/graywolf/static/js/main.5e17a3c6.chunk.js",
-    "main.js.map": "/graywolf/static/js/main.5e17a3c6.chunk.js.map",
+    "main.js": "/graywolf/static/js/main.6315f110.chunk.js",
+    "main.js.map": "/graywolf/static/js/main.6315f110.chunk.js.map",
     "runtime-main.js": "/graywolf/static/js/runtime-main.a2ed426f.js",
     "runtime-main.js.map": "/graywolf/static/js/runtime-main.a2ed426f.js.map",
     "static/js/2.d3de239f.chunk.js": "/graywolf/static/js/2.d3de239f.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/graywolf/index.html",
     "static/css/main.5d958b6e.chunk.css.map": "/graywolf/static/css/main.5d958b6e.chunk.css.map",
     "static/js/2.d3de239f.chunk.js.LICENSE.txt": "/graywolf/static/js/2.d3de239f.chunk.js.LICENSE.txt",
+    "static/media/gj.aaded1f8.png": "/graywolf/static/media/gj.aaded1f8.png",
     "static/media/logo.6ce24c58.svg": "/graywolf/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2ed426f.js",
     "static/js/2.d3de239f.chunk.js",
     "static/css/main.5d958b6e.chunk.css",
-    "static/js/main.5e17a3c6.chunk.js"
+    "static/js/main.6315f110.chunk.js"
   ]
 }
